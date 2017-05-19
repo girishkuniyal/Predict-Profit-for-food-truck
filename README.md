@@ -1,5 +1,6 @@
 
 ## Predict Profit for food truck
+![Python 2.7](https://img.shields.io/badge/Python-2.7-brightgren.svg)    ![Problem Regression(https://img.shields.io/badge/Problem-Regression-red.svg)
 #### Problem statement :
 In this project, we are implementing linear regression with one
 variable to predict profits for a food truck.The file ex1data1.txt contains the dataset for our linear regression problem.
