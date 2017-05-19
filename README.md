@@ -130,13 +130,13 @@ Theta = gradientDescent(X_bias,Y,Theta,iterations,alpha)
 X_test = np.array([[1,3.5],[1,7.5]])
 hypothesis = X_test.dot(Theta.transpose())
 print 'profit from 35000 people city is ',hypothesis[0,0]*10000,'$'
-print 'profit from 35000 people city is ',hypothesis[1,0]*10000,'$'
+print 'profit from 75000 people city is ',hypothesis[1,0]*10000,'$'
 
 
 ```
 
     profit from 35000 people city is  3601.80572428 $
-    profit from 35000 people city is  50825.2145934 $
+    profit from 75000 people city is  50825.2145934 $
     
 
 
