@@ -49,7 +49,7 @@ plt.show()
 ```
 
 
-![png](resources/output_5_0.png)
+![png](output_5_0.png)
 
 
 
@@ -102,7 +102,7 @@ def gradientDescent(X_bias,Y,Theta,iterations,alpha):
     plt.plot(np.linspace(1,iterations,iterations,endpoint=True),cost_log)
     plt.title("Iteration vs Cost graph ")
     plt.xlabel("Number of iteration")
-    plt.ylabel("Cost of Theta")
+    plt.ylabel("Cost function")
     plt.show()
     return Theta
 ```
@@ -115,7 +115,7 @@ Theta = gradientDescent(X_bias,Y,Theta,iterations,alpha)
 ```
 
 
-![png](resources/output_9_0.png)
+![png](output_9_0.png)
 
 
 
@@ -129,8 +129,8 @@ print 'profit from 35000 people city is ',hypothesis[1,0]*10000,'$'
 
 ```
 
-    profit from 35000 people city is  3612.09960774 $
-    profit from 35000 people city is  50829.1287549 $
+    profit from 35000 people city is  3601.80572428 $
+    profit from 35000 people city is  50825.2145934 $
     
 
 
@@ -146,5 +146,5 @@ plt.show()
 ```
 
 
-![png](resources/output_11_0.png)
+![png](output_11_0.png)
 
