@@ -49,7 +49,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](resources/output_5_0.png)
 
 
 
@@ -115,7 +115,7 @@ Theta = gradientDescent(X_bias,Y,Theta,iterations,alpha)
 ```
 
 
-![png](output_9_0.png)
+![png](resources/output_9_0.png)
 
 
 
@@ -146,5 +146,5 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](resources/output_11_0.png)
 
