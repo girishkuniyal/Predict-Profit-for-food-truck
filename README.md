@@ -17,7 +17,12 @@ Dataset is like below :
 Now we have to predict profit for given population city(including which is not traverse by our food truck).
 
 **Note:This problem statement and dataset is from coursera Andrew ng machine learning [Coursework](https://www.coursera.org/learn/machine-learning)**
+#### Dependencies
+* jupyter
+* numpy
+* matplotlib
 
+Install dependencies using [pip](https://pip.pypa.io/en/stable/)
 
 ```python
 import numpy as np
